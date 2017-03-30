@@ -1,3 +1,3 @@
 [Public]
-Object=(Name=DisguiseRelicv09.RelicDisguise,Class=Class,MetaClass=Engine.Mutator,Description="Relic: Disguise,A magical relic that lets you look like the enemy.")
+Object=(Name=DisguiseRelicv10.RelicDisguise,Class=Class,MetaClass=Engine.Mutator,Description="Relic: Disguise,A magical relic that lets you look like the enemy.")
 

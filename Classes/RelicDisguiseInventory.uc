@@ -1,6 +1,6 @@
 //=============================================================================
 // Relic of Disguise
-// Relic Mutation created by Bog_Wraith (grave@tampabay.rr.com). 
+// Relic Mutation created by Bog_Wraith. 
 // Basically, this relic will change your team color to the opposing team color
 // for the duration you own the relic. 
 //
